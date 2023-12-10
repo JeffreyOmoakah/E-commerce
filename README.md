@@ -1,4 +1,4 @@
-###E-commerce Website Readme
+### E-commerce Website Readme
 Welcome to the documentation for our sophisticated E-commerce website! This project is built using HTML, CSS, and JavaScript to provide a seamless and user-friendly online shopping experience.
 
 Table of Contents
